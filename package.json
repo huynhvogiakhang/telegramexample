@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/huynhvogiakhang/telegramexample/issues"
   },
-  "homepage": "https://github.com/huynhvogiakhang/telegramexample#readme"
+  "homepage": "https://github.com/huynhvogiakhang/telegramexample#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
