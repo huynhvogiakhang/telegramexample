@@ -9,5 +9,5 @@ app.get('/webhook', (req, res) => {
   })
   res.send("ok")
 })
-
+console.log("running")
 app.listen(3000)
